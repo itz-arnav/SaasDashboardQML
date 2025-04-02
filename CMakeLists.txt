@@ -19,6 +19,13 @@ qt_add_qml_module(appWorkingWithStack
     QML_FILES
         Main.qml
         RESOURCES Images.qrc
+        QML_FILES Components/Sidebar/Sidebar.qml Components/Sidebar/SidebarHeader.qml
+        QML_FILES Components/Sidebar/SidebarFooter.qml
+        QML_FILES Components/Sidebar/SidebarList.qml
+        SOURCES backendhelper.h backendhelper.cpp
+        QML_FILES Components/RightSidePage/BasePage.qml
+        QML_FILES Components/RightSidePage/DashboardPage.qml
+        QML_FILES Components/RightSidePage/GenericPage.qml
 )
 
 # Qt for iOS sets MACOSX_BUNDLE_GUI_IDENTIFIER automatically since Qt 6.1.

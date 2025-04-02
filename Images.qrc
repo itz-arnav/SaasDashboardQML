@@ -1,6 +1,13 @@
 <RCC>
     <qresource prefix="/">
-        <file>Images/logo.png</file>
-        <file>Images/plane.png</file>
+        <file>Images/chart.svg</file>
+        <file>Images/database.svg</file>
+        <file>Images/post.svg</file>
+        <file>Images/mail.svg</file>
+        <file>Images/admin.svg</file>
+        <file>Images/plus.svg</file>
+        <file>Images/sidebar_collapse.svg</file>
+        <file>Images/sidebar_expand.svg</file>
+        <file>Images/logo.svg</file>
     </qresource>
 </RCC>
