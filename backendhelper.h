@@ -15,6 +15,7 @@ public:
 
     int selectedSection() const;
     void setSelectedSection(int newSelectedSection);
+    Q_INVOKABLE QString getSelectedName();
 
 signals:
     void selectedSectionChanged();

@@ -9,5 +9,7 @@
         <file>Images/sidebar_collapse.svg</file>
         <file>Images/sidebar_expand.svg</file>
         <file>Images/logo.svg</file>
+        <file>Images/click.svg</file>
+        <file>Images/logout.svg</file>
     </qresource>
 </RCC>
